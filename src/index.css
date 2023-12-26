@@ -1,0 +1,10 @@
+body{
+  background-color: rgb(23, 33, 45);
+}
+
+h1, h2, h3, h4, p{
+  color: rgb(220, 220, 220);
+}
+div{
+  color: black;
+}
